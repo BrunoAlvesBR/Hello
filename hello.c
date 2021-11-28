@@ -1,5 +1,8 @@
 #include <stdlib.h>
-#include <stido.h>
+#include <stdio.h>
 #include <locale.h>
 
-printf ("Olá, mundo!")
+void main()
+{
+    printf ("Olá, mundo!");
+}
