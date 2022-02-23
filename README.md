@@ -1,3 +1,2 @@
 # Hello
- Primeiro Repositorio
- CRiei agora
+ Primeiro Repositorio com intuito de aprimorar minhas tecnicas em C
